@@ -13,7 +13,9 @@ better scrollbar Plugin, super lightweight plugin for your wordpress website usi
 This is better scrollbar wordpress plugin. Really the scrollbar looking awesome and easy to use. 
 
 
-better scrollbar plugin: http://http://bestebazar.com/
+To know more: <a href="http://prowpexpert.com/use-better-scrollk-wordpress-plugin/">Click here</a>
+
+<h2>To Get Premium support <a href="mailto:sohelwpexpert@gmail.com">Email us</a> </h2>
 
 == Installation ==
 
